@@ -5,7 +5,7 @@
 // 3. Open: http://localhost:3000
 // ============================================
 
-const TAVILY_KEY = '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'; // ← paste your Tavily key here
+const TAVILY_KEY = ''; // ← paste your Tavily key here
 
 const http = require('http');
 const https = require('https');
